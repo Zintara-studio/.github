@@ -6,7 +6,7 @@
 
 ### What we build
 
-| | |
+| Service | What it covers |
 | --- | --- |
 | **Apps** | iOS and Android apps that feel native, built cross-platform or fully native when the product needs it. |
 | **Websites** | Fast marketing sites and full web apps, from the first wireframe through hosting, analytics and SEO. |
@@ -32,3 +32,4 @@
 ### Start a project
 
 Tell us what you're building at **[zintara-studio.vercel.app](https://zintara-studio.vercel.app/#contact)**. A few lines is plenty.
+Or follow along on Instagram: **[@zintara.studio](https://www.instagram.com/zintara.studio/)**.
