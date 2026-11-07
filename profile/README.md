@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zintara-studio.vercel.app"><img src="banner.jpg" alt="Zintara Studio: we build things people love. Apps, websites, dashboards, CRMs, software, IoT, games, 3D and marketing." width="100%"></a>
+  <a href="https://zintara.studio"><img src="banner.jpg" alt="Zintara Studio: we build things people love. Apps, websites, dashboards, CRMs, software, IoT, games, 3D and marketing." width="100%"></a>
 </p>
 
 **Zintara is a small, senior product studio.** Design, code, hardware and growth sit at one table, so your idea goes from napkin to app store, browser, console or shelf without getting lost between agencies.
@@ -31,5 +31,5 @@
 
 ### Start a project
 
-Tell us what you're building at **[zintara-studio.vercel.app](https://zintara-studio.vercel.app/#contact)**. A few lines is plenty.
+Tell us what you're building at **[zintara.studio](https://zintara.studio/#contact)**. A few lines is plenty.
 Or follow along on Instagram: **[@zintara.studio](https://www.instagram.com/zintara.studio/)**.
