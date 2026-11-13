@@ -31,5 +31,5 @@
 
 ### Start a project
 
-Tell us what you're building at **[zintara.studio](https://zintara.studio/#contact)**. A few lines is plenty.
+Tell us what you're building at **[zintara.studio](https://zintara.studio/#contact)** or email **support@zintara.studio**. A few lines is plenty.
 Or follow along on Instagram: **[@zintara.studio](https://www.instagram.com/zintara.studio/)**.
